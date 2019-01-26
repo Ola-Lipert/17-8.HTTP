@@ -1,0 +1,21 @@
+{
+  "name": "17-8.HTTP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ola-Lipert/17-8.HTTP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ola-Lipert/17-8.HTTP/issues"
+  },
+  "homepage": "https://github.com/Ola-Lipert/17-8.HTTP#readme"
+}
